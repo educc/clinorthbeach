@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">clinorthbeach</string>
+    <string name="talk">Press to talk</string>
+    <string name="recording">Sending...</string>
+</resources>
